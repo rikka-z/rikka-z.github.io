@@ -13,21 +13,21 @@ Automate annual ESG report generation: from interview outline → information co
 
 Single report cycle reduced from **8-12 weeks → 4-6 weeks** in pilot projects.
 
-→ [Repo: esg-report-agent](../../../rikka-z/esg-report-agent)
+→ [Repo: esg-report-agent](https://github.com/rikka-z/esg-report-agent)
 
 ### 📊 ESG Rating Toolkit
 Smart questionnaire filling for **MSCI / Sustainalytics / Wind / 华证** ESG ratings.
 
 Indicator-level semantic matching across 200-500 questions per framework, plus gap analysis and auto-drafted argue emails for the 5-8 month update window.
 
-→ [Repo: esg-rating-toolkit](../../../rikka-z/esg-rating-toolkit)
+→ [Repo: esg-rating-toolkit](https://github.com/rikka-z/esg-rating-toolkit)
 
 ### 🌡️ TCFD Climate Scenario Agent
 Physical & transition climate risk decomposition based on **IPCC AR6 / NGFS Phase IV** scenarios.
 
 From geographic asset exposure to carbon price pathways — one agent for the full TCFD disclosure chapter.
 
-→ [Repo: tcfd-climate-agent](../../../rikka-z/tcfd-climate-agent)
+→ [Repo: tcfd-climate-agent](https://github.com/rikka-z/tcfd-climate-agent)
 
 ---
 
